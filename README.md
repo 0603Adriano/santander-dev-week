@@ -8,6 +8,6 @@ Nesse projeto fomos desafiados a recriar a página inicial do App do banco traba
 
 ## Screenshots
 
-<img src="C:\Users\0603a\Desktop\Design sem nome.png"  />
+<img src="/screenshots/Image2.png"/>
 
-<img src="C:\Users\0603a\Desktop\Screenshot_1625694425.png" style="zoom:20%;" />
+<img src="/screenshots/Image1.png" style="zoom:20%;" />
