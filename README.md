@@ -10,4 +10,4 @@ Nesse projeto fomos desafiados a recriar a página inicial do App do banco traba
 
 <img src="/screenshots/Image2.png"/>
 
-<img src="/screenshots/Image1.png" style="zoom:20%;" />
+<img src="/screenshots/Image1.png" width="250px" />
